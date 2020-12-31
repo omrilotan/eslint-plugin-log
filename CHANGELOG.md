@@ -1,3 +1,9 @@
+# 1.2.6 - 2020-09-10
+## [Internal] Switch code lint
+
+# 1.2.6 - 2020-09-10
+## [Update] Include update of common-js-file-extensions with commonjs extension
+
 # 1.2.5 - 2020-09-10
 ## [FIX] interface with common-js-file-extensions package
 
